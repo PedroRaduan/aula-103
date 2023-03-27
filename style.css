@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&family=Roboto:wght@100;400&display=swap');
+
+
+body
+  {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background: pink;
+  }
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+  #camera 
+  {
+    padding: 5px auto;
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+  }
+  .nameOfObjects, #resultObjectName  , #resultObjectAccuracy
+  {
+    color: yellow;
+  }
